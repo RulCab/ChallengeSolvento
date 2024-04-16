@@ -13,12 +13,8 @@ Para configurar y ejecutar este proyecto, sigue los pasos a continuación:
 Descripción de cómo utilizar el sistema con ejemplos de comandos y posibles configuraciones.
 
 ## Documentación Adicional
-Para una comprensión más profunda y detallada del proyecto, consulta la documentación completa [aquí](./https://github.com/RulCab/ChallengeSolvento/blob/main/Challenge%20Tech%20Support%20Analyst%20-%20Solvento.pdf).
+Para una comprensión más profunda y detallada del proyecto, [documentación completa aquí](https://github.com/RulCab/ChallengeSolvento/blob/main/Challenge%20Tech%20Support%20Analyst%20-%20Solvendo.pdf)
 
-## Contribuir
-Información sobre cómo otros desarrolladores pueden contribuir al proyecto.
 
-## Licencia
-Detalles sobre la licencia del proyecto.
 
 
