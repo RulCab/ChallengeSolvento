@@ -1,7 +1,7 @@
 # Challenge Solvento
 
 ## Introducción
-Este proyecto demuestra la habilidad de programación para resolver problemas técnicos en un entorno productivo, gestionando la logística de asignación de viajes y camiones.
+Este proyecto demuestra la habilidad de programación para resolver problemas técnicos en un entorno productivo, gestionando la logística de asignación de viajes y camiones (en este caso, los camiones fueron reemplazados por barcos para darle un toque extra de creatividad).
 
 ## Cómo Empezar
 Para configurar y ejecutar este proyecto, sigue los pasos a continuación:
@@ -20,7 +20,7 @@ cd ChallengeSolvento
 3. Ejecuta el Jupyter Notebook:
 jupyter notebook challenge_solvento_raúl_cabrera.ipynb
 4. Sigue las instrucciones en el notebook para ejecutar las celdas.
-5. Asegúrate de tener todas las dependencias instaladas, como se describe en la sección 'Instalación'.
+5. Asegúrate de tener todas las dependencias instaladas.
 
 ## Documentación Adicional
 Para una comprensión más profunda y detallada del proyecto, revisa la documentación en el pdf anexado en el repositorio, `Challenge Tech Support Analyst - Solvento.pdf`.
